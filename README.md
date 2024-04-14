@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshil Mahraur</h1>
-<h3 align="center">A passionate Full Stack Developer and a Aspiring DevOps Engineer</h3>
+<h3 align="center">A passionate Full Stack Developer and an Aspiring DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshil89&label=Profile%20views&color=0e75b6&style=flat" alt="darshil89" /> </p>
 
