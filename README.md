@@ -7,9 +7,13 @@
 
 - 🔭 I’m currently working at [hiremeclub](https://hiremeclub.com/)
 
+- 👯 I’m looking to collaborate on some open source project
+
 - 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **darshilmahraur3@gmail.com**
+
+- 🤝 I’m looking for help with aws cloud
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
