@@ -1,11 +1,27 @@
 <h1 align="center">Hi 👋, I'm Darshil Mahraur</h1>
-<h3 align="center">A passionate Full Stack Developer and an Aspiring DevOps Engineer</h3>
+
+<h3 align="center"><i>A passionate Full Stack Developer and an Aspiring DevOps Engineer</i></h3>
+
+
+<!-- About Section -->
+<!-- <details> -->
+  <!-- <summary> -->
+
+## 🙋‍♂️ About Me
+
+  <!-- </summary> -->
+<p>
+
+I'm a dedicated full-stack developer and an avid learner in cloud technologies. Throughout my internships, I've gained hands-on experience in front-end, back-end, and cloud infrastructure, allowing me to build and deploy scalable solutions efficiently.
+When I'm not on screen, I love swimming and traveling, exploring new places
+  
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshil89&label=Profile%20views&color=0e75b6&style=flat" alt="darshil89" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshil89" alt="darshil89" /></a> </p>
 
-- 🔭 I’m currently working at [hiremeclub](https://hiremeclub.com/)
+- 🔭 I’m currently working at [FUTR Studios](https://www.futrstudios.in/)
 
 - 👯 I’m looking to collaborate on some open source project
 
