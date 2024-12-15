@@ -34,6 +34,7 @@ When I'm not on screen, I love swimming and traveling, exploring new places
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/darshil-mahraur-821216259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshil-mahraur-821216259/" height="30" width="40" /></a>
+<a href="https://dev.to/darshil89" target="blank"><img align="center" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="https://dev.to/darshil89" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
