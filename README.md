@@ -21,7 +21,7 @@ When I'm not on screen, I love swimming and traveling, exploring new places
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshil89" alt="darshil89" /></a> </p>
 
-- 🔭 I’m currently working at [FUTR Studios](https://www.futrstudios.in/)
+- 🔭 I’m currently working at [The Agentic](https://www.theagentic.ai/)
 
 - 👯 I’m looking to collaborate on some open source project
 
