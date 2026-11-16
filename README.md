@@ -12,8 +12,11 @@
   <!-- </summary> -->
 <p>
 
-I'm a dedicated full-stack developer and an avid learner in cloud technologies. Throughout my internships, I've gained hands-on experience in front-end, back-end, and cloud infrastructure, allowing me to build and deploy scalable solutions efficiently.
-When I'm not on screen, I love swimming and traveling, exploring new places
+Hello there! 
+
+I'm a Software Engineer who loves talking about scalability, performance, and security. Basically, I enjoy figuring out why things break and making sure they don't break again. Beyond tech, I can happily nerd out about semiconductors too, thanks to my background in Electronics. I also enjoy writing blogs, so feel free to check them out. I'd love to hear your thoughts, discoveries, and learnings along the way. There's always something new to learn! 
+
+And if you're up for some badminton or swimming, feel free to reach out. Always happy to trade screen time for some game time!
   
 </p>
 
@@ -21,15 +24,13 @@ When I'm not on screen, I love swimming and traveling, exploring new places
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshil89" alt="darshil89" /></a> </p>
 
-- 🔭 I’m currently working at [The Agentic](https://www.theagentic.ai/)
+- 🔭 I’m currently working at [Vellabs](https://vellabs.in/)
 
 - 👯 I’m looking to collaborate on some open source project
 
 - 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **darshilmahraur3@gmail.com**
-
-- 🤝 I’m looking for help with aws cloud
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
